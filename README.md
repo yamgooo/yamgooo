@@ -1,4 +1,4 @@
-# Erik Patricio Portilla
+# Erik Portilla Pesantez
 
 **Full-Stack Developer** • Quito, Ecuador
 
