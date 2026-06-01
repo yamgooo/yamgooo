@@ -8,11 +8,14 @@
 
 ## 🧩 Experiencia
 
-**Full-Stack Developer — Elixir Software S.A**
-*2024 – Presente*
+**Software Engineer — PRODUBANCO · Grupo Proamérica**  
+*Feb 2026 – Presente*
 
-**Freelance Developer**
-*2020 – 2024*
+**Full-Stack Developer — Elixir Software S.A**  
+*Abr 2024 – Feb 2026*
+
+**Freelance Developer**  
+*Jun 2020 – May 2024*
 
 ---
 
